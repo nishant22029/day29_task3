@@ -1,0 +1,68 @@
+#box1{
+    float: left;
+    background-color: aquamarine;
+    border-radius: 10px;
+    height: 40%;
+    width: 40%;
+    margin:10px ;
+}
+#box2{
+    float:right;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 50%;
+    width: 50%;
+    margin-right: 10px;
+
+}
+body{
+    background-color: aqua;
+}
+#box2_1{
+    background-color: gray;
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+#box2_2{
+    background-color: rgb(230, 115, 115);
+}
+#box2_3{
+    background-color: lightblue;
+
+}
+#box2_4{
+    background-color: rgb(214, 65, 65);
+    height: 40%;
+}
+#box3{
+    margin: 50px;
+    padding: 20px;
+}
+#box3_1{
+    float: left;
+    height: 40%;
+}
+#box3_2{
+    float: left;
+    
+}
+#box3_3
+{
+    
+    float: left;
+    /* background-size: cover; */
+    margin: 2px;
+}
+#box1>#box3_2>img{
+    height: 65%;
+    width: 70%;
+}
+#box1>#box3_3>img{
+    height: 10%;
+    width: 10%;
+}
